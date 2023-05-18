@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684406841 source:d:\psc170070\test_nap\main.c
+	<stdio.h>
+	<stdlib.h>
+
